@@ -13,7 +13,9 @@ xe stella 오류 스킨
 - kmbfamily,주영,소현
 ## 지원 ##
  - 공식홈페이지 : http://www.kmbfamily.net
- - 세부설명 및 안내 : http://www.kmbfamily.net/software/478
+ - 세부설명 및 안내
+ -   https://www.kmbfamily.net/software/917 (PC스킨)
+ -   https://www.kmbfamily.net/software/918 (모바일스킨)
  - 문의 : https://open.kakao.com/o/gOiNvsx
 ## 라이선스 ##
 Copyright by kmbfamily & 주영 & 소현 2014 All rights reserved http://www.kmbfamily.net
