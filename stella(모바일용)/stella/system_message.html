@@ -1,0 +1,26 @@
+<script>alert('{$system_message}');</script>
+		<div class="co">
+		<!--@if(!$is_logged)-->
+		<script type='text/javascript'>
+		location.href='{getUrl('act','dispMemberLoginForm')}';
+		</script>
+		<!--@else-->
+		<script type="text/javascript">
+		history.back();
+		</script>
+		<!--@end-->
+	</div>
+</div>
+<script>
+	jQuery(function($){
+	var keep_msg = $('#keep_msg');
+	keep_msg.hide();
+	$('#keepid').change(function(){
+	if($(this).is(':checked')){
+	keep_msg.slideDown(200);
+	} else {
+	keep_msg.slideUp(200);
+	}
+	});
+});
+</script>
